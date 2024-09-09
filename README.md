@@ -1,4 +1,4 @@
-Atletas Brasileiros: Encontre seus Heróis Olímpicos! 🇧🇷
+Atletas Brasileiros: Encontre seus Heróis Olímpicos! 🇧🇷 - ImersãoDev Alura
 
 Este projeto é um tributo aos incríveis atletas brasileiros que nos inspiram e enchem de orgulho nas Olimpíadas! 🏅 Com ele, você pode:
 
